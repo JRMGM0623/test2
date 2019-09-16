@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CPSC 481 Project Portfolio
 
 You can use the [editor on GitHub](https://github.com/JRMGM0623/test2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
